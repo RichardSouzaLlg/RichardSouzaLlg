@@ -1,33 +1,39 @@
-### Ola! Eu sou Richard Souza 🖔
+# Hi, I'm Richard Souza 👋
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white0)](https://wa.me/qr/LBANYLSIFJS7N1)
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge" alt="Status">
+</p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dognho/)
+### 💻 About Me
+I am a **Software Developer** focused on creating efficient and visual solutions. Currently, I am a Front-End specialist deepening my knowledge in Back-End and Game Development scripts.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][def2]
+> *"Strive for progress, not perfection."* ✨
 
-[def2]: https://instagram.com/Richard_souzaLlg
+---
 
-![Richard GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSouzaLlg&show_icons=true&theme=tokyonight)
+### 🛠 Tech Stack & Skills
 
-### Tecnologias que eu uso no meu dia a dia'
+**Languages & Core:**
+- ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
-<div style="display: inline_block"><br/>
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-<div style="display: inline_block"><br/>
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</div>
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-<div style="display: inline_block"><br/>
-    <img align="center" alt="PowerShell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white" />
-</div><br/>
+**Front-End & Databases:**
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-Apaixonado por programacao, tecnologia e por mudar a realidade das pessoas com programacao
+---
 
-## Meu Email para contato: Richardsouzalelling@gmail.com
+### 📊 GitHub Stats
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=RichardSouzaLlg&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/richard_souzallg/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Richardsouzalelling@gmail.com)
+
+---
+*Passionately transforming reality through code.* 🚀 [cite: image_f31
