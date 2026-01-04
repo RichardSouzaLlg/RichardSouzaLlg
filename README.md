@@ -33,7 +33,7 @@ I am a **Software Developer** focused on creating efficient and visual solutions
 
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/richard_souzallg/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Richardsouzalelling@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:Richard110souza@gmail.com)
 
 ---
 *Passionately transforming reality through code.* 🚀 [cite: image_f31
